@@ -1,0 +1,6 @@
+---
+name: BowCD
+version: 0.0.1
+main: CJMustard1452\BowCoolDown\Main
+api: 3.28.0
+...
